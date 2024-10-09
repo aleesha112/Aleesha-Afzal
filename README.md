@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQHFAWj_QJ3t7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725037505803?e=1733961600&v=beta&t=pW7EKLE0UX_uxrjvot0XKnlCixiW1BoKatgTnA7pNLw)
+![logo](https://github.com/aleesha112/Aleesha-Afzal/blob/main/1725037505803.jfif)
 
 <h1 align="center">Hi 👋, I'm Aleesha Afzal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
